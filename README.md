@@ -1,3 +1,4 @@
+
 # Project Overview
 
 In this project I was given a web-based application that reads RSS
@@ -81,4 +82,14 @@ feed and again to get the second feed. The `innerText` of the
 `loadFeed()` is asynchronous, we 'chain' the calls by
 wrapping the second call to `loadFeed()` in the callback for
 the first call.
+
+
+## License
+
+My contributions here are limited to the files
+
+* `jasmine/spec/feedreader.js`
+* `README.md`
+
+and these I place these in the public domain.
 
