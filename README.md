@@ -19,7 +19,7 @@ First, clone the repository:
 $ git clone https://github.com/alcarruth/frontend-p8-feedreader.git
 ```
 
-and then view the file `frontend-p8-feedreader.git/index.html` in your
+and then view the file `frontend-p8-feedreader/index.html` in your
 web browser.  The jasmine tests are run automatically and the results
 are displayed at the bottom of the web page.
 
